@@ -1,0 +1,13 @@
+name: Life_Expectancy_Prediction
+title: Life_Expectancy_Prediction
+username: 9c81h7-nam0tran
+account: 9c81h7-nam0tran
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9805574
+bundleId: 7667335
+url: https://9c81h7-nam0tran.shinyapps.io/Life_Expectancy_Prediction/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app - Copy.qmd|desktop.ini|x_train.csv|y_train.csv
